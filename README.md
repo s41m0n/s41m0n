@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s41m0n&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="250"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s41m0n&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s41m0n&hide=html,javascript,typescript,php,css&theme=github_dark&langs_count=7" height="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s41m0n&hide=html,javascript,typescript,php,css&theme=github_dark&langs_count=7" height="200"/>
 </a>
 
 Ph.D. student in *Cybersecurity and Reliable Artificial Intelligence* 🎓
