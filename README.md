@@ -1,24 +1,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s41m0n&theme=github_dark" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s41m0n&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="250"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s41m0n&theme=github_dark" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s41m0n&hide=html,javascript,typescript,php,css&theme=github_dark&langs_count=7" height="300"/>
 </a>
 
-Visit my personal [website](https://s41m0n.github.io) 😄
+Ph.D. student in *Cybersecurity and Reliable Artificial Intelligence* 🎓
 
-Visit my [organization](https://github.com/dechainers) 💽
-<!--
-**s41m0n/s41m0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solid background on Engineering, Programming, Linux systems, Networking & Enhanced Data Path Programming 💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more info, please visit my personal [website](https://s41m0n.github.io) 🌍
