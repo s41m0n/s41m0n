@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **whatever you think I can be of help**
 
-- 📫 How to reach me **simonemagnani.96@gmal.com**
+- 📫 How to reach me **simonemagnani.96@gmail.com**
 
 - 📄 Know about my experiences [https://s41m0n.github.io](https://s41m0n.github.io)
 
