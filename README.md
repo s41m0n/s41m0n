@@ -3,21 +3,17 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=s41m0n&theme=onedark&row=1&column=7" alt="s41m0n" width="100%"/>
 
-- 🔭 I’m currently working on [EFADS](https://github.com/s41m0n/efads)
+- 🔭 I’m currently working on [ENID](https://github.com/s41m0n/enid)
+
+- 🔭 Previously worked on [CrownLabs](https://github.com/netgroup-polito/CrownLabs), [Polycube](https://github.com/polycube-network/polycube), and [DeChainy](https://github.com/dechainers/dechainy)
 
 - 🌱 I’m currently learning **Go, Machine Learning, eBPF**
 
-- 👯 I’m looking to collaborate on [Falco](https://github.com/falcosecurity/falco)
-
 - 👨‍💻 All of my projects are available at [https://github.com/s41m0n/](https://github.com/s41m0n/)
-
-- 💬 Ask me about **whatever you think I can be of help**
 
 - 📫 How to reach me **simonemagnani.96@gmail.com**
 
 - 📄 Know about my experiences [https://s41m0n.github.io](https://s41m0n.github.io)
-
-- ⚡ Fun fact **I like joking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
