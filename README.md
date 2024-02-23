@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simone Magnani</h1>
+<h1 align="center">Hi 👋, I'm Simone Magnani 🇮🇹</h1>
 <h3 align="center">PhD student in *Cybersecurity and Reliable Artificial Intelligence* 🎓</h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=s41m0n&theme=onedark&row=1&column=7" alt="s41m0n" width="100%"/>
