@@ -3,11 +3,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=s41m0n&theme=onedark&row=1&column=7" alt="s41m0n" width="100%"/>
 
-- **Open for Hiring!** Seeking positions as *Open Source Software Engineer* (Remote/Hybrid) in the field of Network Monitoring, Observability and Microservices (eBPF, Kubernetes, etc.)
+- **Open for Hiring!** Seeking positions as *Open Source Software Engineer* (Remote/Hybrid) in the field of Network Monitoring, Observability, and Microservices (eBPF, Kubernetes, etc.)
 
-- 🔭 Contributions on [Cilium ebpf-go](https://github.com/cilium/ebpf), [IOVisor BCC](https://github.com/iovisor/bcc), [CrownLabs](https://github.com/netgroup-polito/CrownLabs), [Polycube](https://github.com/polycube-network/polycube), [KubernetesOnDesktop](https://github.com/netgroup-polito/KubernetesOnDesktop), [DeChainy](https://github.com/dechainers/dechainy), [INTELLECT](https://github.com/s41m0n/intellect).
+- 🔭 Contributions on [Cilium ebpf-go](https://github.com/cilium/ebpf) (ongoing), [IOVisor BCC](https://github.com/iovisor/bcc), [CrownLabs](https://github.com/netgroup-polito/CrownLabs), [Polycube](https://github.com/polycube-network/polycube), [KubernetesOnDesktop](https://github.com/netgroup-polito/KubernetesOnDesktop), [DeChainy](https://github.com/dechainers/dechainy), [INTELLECT](https://github.com/s41m0n/intellect).
 
-- 👨‍💻 All of my projects are available at [https://github.com/s41m0n/](https://github.com/s41m0n/) (archived old univesity assignments)
+- 👨‍💻 All of my projects are available on my profile (archived old university assignments)
 
 - 📫 How to reach me **simonemagnani.96@gmail.com**
 
@@ -59,15 +59,15 @@
 
 [1] S. Magnani, F. Risso and D. Siracusa, "A Control Plane Enabling Automated and Fully Adaptive Network Traffic Monitoring With eBPF," in IEEE Access, vol. 10, pp. 90778-90791, 2022
 
-[2] R. Doriguzzi-Corin, S. Cretti, T. Catena, S. Magnani and D. Siracusa, "Towards Application-Aware Provisioning of Security Services with Kubernetes," in Proc. of 2022 NetSoft, pp. 284-286
+[2] R. Doriguzzi-Corin, S. Cretti, T. Catena, S. Magnani, and D. Siracusa, "Towards Application-Aware Provisioning of Security Services with Kubernetes," in Proc. of 2022 NetSoft, pp. 284-286
 
 [3] S. Magnani, R. Doriguzzi-Corin and D. Siracusa, "Enhancing Network Intrusion Detection: An Online Methodology for Performance Analysis," in Proc. of 2023 IEEE NetSoft, pp. 510-515
 
 [4] S. Magnani, S. Braghin, A. Rawat, R. Doriguzzi-Corin, M. Purcell, and D. Siracusa, "Pruning Federated Learning Models for Anomaly Detection in Resource-Constrained Environments," in Proc. of 2023 IEEE BigData pp. 3274-3283
 
-[5] *Ongoing* - S. Magnani, S. Braghin, L. Nedoshivina, R. Doriguzzi-Corin, and D. Siracusa, “Unveiling Knowledge Erosion in Task-Specific Model Fine-Tuning for Anomaly Detection”
+[5] *Ongoing* - S. Magnani, S. Braghin, L. Nedoshivina, R. Doriguzzi-Corin, and D. Siracusa, “INTELLECT: Federated Learning for Adaptable Intrusion Detection Systems”, preprint in arXiv, submitter to Elsevier Computer&Security
 
-[6] *Ongoing* - S. Magnani, S. Braghin, S. Tirupathi, R. Doriguzzi-Corin, and D. Siracusa, “Network Pruning Against Concept Drifts in Online Learning”
+[6] *Accepted* - S. Magnani, S. Braghin, S. Tirupathi, R. Doriguzzi-Corin, and D. Siracusa, “Online Learning and Model Pruning Against Concept Drifts in Edge Devices,” in Proc. of 2024 NetSoft
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s41m0n&hide=html,javascript,typescript,php,css,tex&theme=github_dark&langs_count=8&layout=compact" height="180"/>
