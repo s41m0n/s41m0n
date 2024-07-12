@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simone Magnani 🇮🇹</h1>
 <h3 align="center">Software Engineer at Isovalent at Cisco, working on the Cilium project. 🐝</h3>
-<h3 align="center">PhD Defense in *Cybersecurity and Reliable Artificial Intelligence* scheduled for September 2024 🎓</h3>
+<h3 align="center">PhD Defense in Cybersecurity and Reliable Artificial Intelligence scheduled for September 2024 🎓</h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=smagnani96&theme=onedark&row=1&column=7" alt="smagnani96" width="100%"/>
 
