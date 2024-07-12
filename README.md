@@ -2,23 +2,23 @@
 <h3 align="center">Software Engineer at Isovalent at Cisco, working on the Cilium project. 🐝</h3>
 <h3 align="center">PhD Defense in *Cybersecurity and Reliable Artificial Intelligence* scheduled for September 2024 🎓</h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=s41m0n&theme=onedark&row=1&column=7" alt="s41m0n" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=smagnani96&theme=onedark&row=1&column=7" alt="smagnani96" width="100%"/>
 
-- 🔭 Contributions on [Cilium ebpf-go](https://github.com/cilium/ebpf) (ongoing), [IOVisor BCC](https://github.com/iovisor/bcc), [CrownLabs](https://github.com/netgroup-polito/CrownLabs), [Polycube](https://github.com/polycube-network/polycube), [KubernetesOnDesktop](https://github.com/netgroup-polito/KubernetesOnDesktop), [DeChainy](https://github.com/dechainers/dechainy), [INTELLECT](https://github.com/s41m0n/intellect).
+- 🔭 Contributions on [Cilium ebpf-go](https://github.com/cilium/ebpf), [IOVisor BCC](https://github.com/iovisor/bcc), [CrownLabs](https://github.com/netgroup-polito/CrownLabs), [Polycube](https://github.com/polycube-network/polycube), [KubernetesOnDesktop](https://github.com/netgroup-polito/KubernetesOnDesktop), [DeChainy](https://github.com/dechainers/dechainy), [INTELLECT](https://github.com/smagnani96/intellect).
 
 - 👨‍💻 All of my projects are available on my profile (archived old university assignments)
 
 - 📫 How to reach me **simonemagnani.96@gmail.com**
 
-- 📄 Know about my experiences [https://s41m0n.github.io](https://s41m0n.github.io)
+- 📄 Know about my experiences [https://smagnani96.github.io](https://smagnani96.github.io)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simone-magnani-564830151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simone-magnani-564830151" height="30" width="40" /></a>
 <a href="https://medium.com/@simonemagnani.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@simonemagnani.96" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/s41m0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s41m0n" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@s41m0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@s41m0n" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/smagnani96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smagnani96" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@smagnani96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@smagnani96" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Main Programming Languages DevOps:</h3>
@@ -69,7 +69,7 @@
 [6] *Accepted* - S. Magnani, S. Braghin, S. Tirupathi, R. Doriguzzi-Corin, and D. Siracusa, “Online Learning and Model Pruning Against Concept Drifts in Edge Devices,” in Proc. of 2024 NetSoft
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s41m0n&hide=html,javascript,typescript,php,css,tex&theme=github_dark&langs_count=8&layout=compact" height="180"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=s41m0n&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s41m0n&theme=dark" alt="s41m0n" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smagnani96&hide=html,javascript,typescript,php,css,tex&theme=github_dark&langs_count=8&layout=compact" height="180"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=smagnani96&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smagnani96&theme=dark" alt="smagnani96" />
 </div>
